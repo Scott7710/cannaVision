@@ -1,0 +1,16 @@
+.title {
+    text-align: center;
+}
+
+article {
+    border: 50px;
+     
+}
+
+h3 {
+    font-weight: 400;
+}
+p {
+   border: 50px;
+    max-width: 80%;
+}
